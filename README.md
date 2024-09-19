@@ -17,7 +17,6 @@ Have ideas to make this better? Want to tweak something or add features? Feel fr
 - Make your changes
 - Open a pull request
 
-Let's make YouTube a better place together!
 
 ## Have Fun 🚀
 Contribute, share it, and make this extension the ultimate productivity booster. Let's stop wasting time on Shorts and get back to building cool things on GitHub! 😎
