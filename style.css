@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#url {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
